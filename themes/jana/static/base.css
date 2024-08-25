@@ -16,21 +16,21 @@ html, body
 	margin: auto ;
 	max-width: 100% ;
 	overflow-x: hidden ;
-	background: #E9D502 ;
+	/* background: #E9D502 ; */
 }
 
 a
 {
 	text-decoration: none ;
 	position: relative ;
-	color: #333333 ;
+	/* color: #333333 ; */
+	color: white ;
 }
 
 img
 {
 	display: block ;
 	width: 96% ;
-	background: #333333 ;
 	/* margin: 0.3em auto ; */
 	margin: 2% auto ;
 }
@@ -42,7 +42,9 @@ h2
 	bottom: 0 ;
 	font-size: 2vmax ;
 	padding: 0.2em ;
-	background: #E9D502 ;
+	margin-left: 0.9em ;
+	/* background: #E9D502 ; */
+	background: black ;
 	text-transform: uppercase ;
 }
 
