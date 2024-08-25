@@ -1,0 +1,101 @@
+Submit:
+  other: Submit
+
+readMore:
+  other: Read more
+
+Book a Tour:
+  other: Book a Tour
+
+Build a Tour:
+  other: Build a Tour
+
+Subscribe to our Newsletter:
+  other: Subscribe to our Newsletter
+
+official_docs:
+  other: Official Hugo Docs
+
+lessons:
+  other: Lessons
+
+lesson:
+  other: lesson
+
+start_with:
+  other: start with
+
+getting_started:
+  other: getting started
+
+next:
+  other: next
+
+share_on:
+  other: share on
+
+quantity:
+  other: quantity
+
+Your shopping cart is currently empty:
+  other: your shopping cart is currently empty
+
+add to cart:
+  other: add to cart
+
+Shopping cart:
+  other: shopping cart
+
+Price:
+  other: price
+
+continue shopping:
+  other: continue shopping
+
+Add to cart:
+  other: add to cart
+
+Proceed to checkout:
+  other: proceed to checkout
+
+Proceed to payment:
+  other: proceed to payment
+
+Payment total:
+  other: payment total
+
+First name:
+  other: first name
+
+Last name:
+  other: last name
+
+Email address:
+  other: email address
+
+Address:
+  other: address
+
+Zipcode:
+  other: zipcode
+
+City:
+  other: city
+
+Shipping:
+  other: shipping
+
+Country:
+  other: country
+
+Gift wrapping:
+  other: gift wrapping
+
+Not gift wrapped:
+  other: not gift wrapped
+
+Message:
+  other: message
+
+back to cart:
+  other: back to cart
