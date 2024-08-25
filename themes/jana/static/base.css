@@ -2,54 +2,47 @@
 
 *
 {
-    font-family: tajwal ;
-    -ms-user-select: none ;
-    -moz-user-select: none ;
-    -webkit-user-select: none ;
-    -ms-tap-highlight-color: transparent ;
-    -moz-tap-highlight-color: transparent ;
-    -webkit-tap-highlight-color: transparent ;
+	font-family: tajwal ;
+	-ms-user-select: none ;
+	-moz-user-select: none ;
+	-webkit-user-select: none ;
+	-ms-tap-highlight-color: transparent ;
+	-moz-tap-highlight-color: transparent ;
+	-webkit-tap-highlight-color: transparent ;
+}
+
+html, body
+{
+	margin: auto ;
+	max-width: 100% ;
+	overflow-x: hidden ;
+	background: #E9D502 ;
 }
 
 a
 {
 	text-decoration: none ;
-	color: #eeeeee ;
-}
-
-html, body
-{
-    max-width: 100% ;
-    overflow-x: hidden ;
-}
-
-a
-{
-	position: relative;
+	position: relative ;
+	color: #333333 ;
 }
 
 img
 {
-	display: block;
-	width: 100%;
-	height: auto;
+	display: block ;
+	width: 96% ;
+	background: #333333 ;
+	/* margin: 0.3em auto ; */
+	margin: 2% auto ;
 }
 
 /* The overlay effect - lays on top of the container and over the image */
 h2 
 {
-  position: absolute;
-  bottom: 0;
-  color: #f1f1f1;
-  width: 100%;
-  transition: .5s ease;
-  color: white;
-  font-size: 20px;
-  padding: 20px;
-  text-align: center;
+	position: absolute ;
+	bottom: 0 ;
+	font-size: 2vmax ;
+	padding: 0.2em ;
+	background: #E9D502 ;
+	text-transform: uppercase ;
 }
 
-/* When you mouse over the container, fade in the overlay title */
-a:hover h2 {
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
-}
