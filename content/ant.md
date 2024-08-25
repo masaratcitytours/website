@@ -1,7 +1,7 @@
 +++
 title = "Antique Tour"
 date = 2024-08-24T21:15:49+03:00
-url = "/website/ant"
+url = "/ant"
 +++
 
 A tour of Bachoura and Basta’s Antique Market

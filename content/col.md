@@ -1,7 +1,7 @@
 +++
 title = "Collaborations"
 date = 2024-08-24T21:16:01+03:00
-url = "/website/col"
+url = "/col"
 +++
 
 A Tool for Research: The Potential of Walking Tours with Molly T. Oringer

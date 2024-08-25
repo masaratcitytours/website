@@ -1,7 +1,7 @@
 +++
 title = "Activities"
 date = 2024-08-24T21:15:59+03:00
-url = "/website/act"
+url = "/act"
 +++
 
 Touring Downtown Beirut with ETH Zurich and Public Works
