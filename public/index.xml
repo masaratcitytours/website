@@ -10,37 +10,37 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collaborations</title>
-      <link>http://localhost:1313/col/</link>
+      <link>http://localhost:1313/website/col/</link>
       <pubDate>Sat, 24 Aug 2024 21:16:01 +0300</pubDate>
-      <guid>http://localhost:1313/col/</guid>
+      <guid>http://localhost:1313/website/col/</guid>
       <description>A Tool for Research: The Potential of Walking Tours with Molly T. Oringer Project Date: May 2019&#xA;Information, maps, and real data about the SOLIDERE project are quite scarce, often single-sourced (SOLIDERE being the source), and not at all representative of reality.&#xA;This Wadi Abu Jmil tour was born out of a collaboration between Beirut Architecture Tours and Molly T. Oringer, who is working on her own project “that explores the legacies of formerly Jewish spaces in Lebanon in the absence of a Jewish community.</description>
     </item>
     <item>
       <title>Activities</title>
-      <link>http://localhost:1313/act/</link>
+      <link>http://localhost:1313/website/act/</link>
       <pubDate>Sat, 24 Aug 2024 21:15:59 +0300</pubDate>
-      <guid>http://localhost:1313/act/</guid>
+      <guid>http://localhost:1313/website/act/</guid>
       <description>Touring Downtown Beirut with ETH Zurich and Public Works Event Date: October 24, 2018&#xA;Touring Downtown Beirut with the visiting student from MAS Urban Design program at ETH Zurich. The tour took place as part of Day 3 of the Inclusive Urbanism workshop organized by Public Works Studio; the highlight being a tour with Jana Haidar in downtown Beirut. The Tour explored the city center&amp;rsquo;s transformation through its most significant buildings, following a narrative of planning practices- and lack thereof- that transformed Beirut throughout history.</description>
     </item>
     <item>
       <title>Antique Tour</title>
-      <link>http://localhost:1313/ant/</link>
+      <link>http://localhost:1313/website/ant/</link>
       <pubDate>Sat, 24 Aug 2024 21:15:49 +0300</pubDate>
-      <guid>http://localhost:1313/ant/</guid>
+      <guid>http://localhost:1313/website/ant/</guid>
       <description>A tour of Bachoura and Basta’s Antique Market&#xA;The tour explores the Basta’s &amp;ldquo;Antiques Market&amp;rdquo; with a focus on understanding its origins by tracing the trajectories of the early families engaged in this trade as well as the socio-political and economic conditions that accompanied their earliest arrival to the area. More broadly, the tour tries to paint a picture of the Bashoura district&amp;rsquo;s formation during the period of Beirut’s transformation from a fisherman town to a central port city on the Mediterranean with sprawling suburbs.</description>
     </item>
     <item>
       <title>Masarat</title>
-      <link>http://localhost:1313/mas/</link>
+      <link>http://localhost:1313/website/mas/</link>
       <pubDate>Sat, 24 Aug 2024 21:15:41 +0300</pubDate>
-      <guid>http://localhost:1313/mas/</guid>
+      <guid>http://localhost:1313/website/mas/</guid>
       <description>“Space is not a scientific object removed from ideology or politics. It has always been political and strategic. There is an ideology of space. Because space, which seems homogeneous, which appears as a whole in its objectivity…, is a social product.” Henri Lefebvre, The Survival of Capitalism&#xA;Masarat is a project that curates walking city tours, weaving narratives of placemaking that go beyond the official, state-conforming narratives of history and heritage.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/abt/</link>
+      <link>http://localhost:1313/website/abt/</link>
       <pubDate>Sat, 24 Aug 2024 21:15:31 +0300</pubDate>
-      <guid>http://localhost:1313/abt/</guid>
+      <guid>http://localhost:1313/website/abt/</guid>
       <description>Jana is an architect and urban researcher engaging in topics of national urban planning practices, housing policies and displacement, urban transformation, and history. Jana completed her MA in Architecture at the Faculty of Architecture and Fine Arts of the Lebanese University. Her area of study and general interest has influenced Jana’s professional track from an inquisitive city dweller, to a lead urban researcher turned project manager, working with local research institutions.</description>
     </item>
   </channel>

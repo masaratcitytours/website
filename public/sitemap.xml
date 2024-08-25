@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/col/</loc>
+    <loc>http://localhost:1313/website/col/</loc>
     <lastmod>2024-08-24T21:16:01+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/act/</loc>
+    <loc>http://localhost:1313/website/act/</loc>
     <lastmod>2024-08-24T21:15:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ant/</loc>
+    <loc>http://localhost:1313/website/ant/</loc>
     <lastmod>2024-08-24T21:15:49+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mas/</loc>
+    <loc>http://localhost:1313/website/mas/</loc>
     <lastmod>2024-08-24T21:15:41+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/abt/</loc>
+    <loc>http://localhost:1313/website/abt/</loc>
     <lastmod>2024-08-24T21:15:31+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
