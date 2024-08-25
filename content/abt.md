@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = 2024-08-24T21:15:31+03:00
-url = "/abt"
+url = "/website/abt"
 +++
 
 Jana is an architect and urban researcher engaging in topics of national urban planning practices, housing policies and displacement, urban transformation, and history. 
