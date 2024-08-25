@@ -1,5 +1,5 @@
 +++
-title = ''
+title = ""
 date = 2024-03-02T19:02:59+02:00
-url = '/website/'
+url = "/"
 +++
