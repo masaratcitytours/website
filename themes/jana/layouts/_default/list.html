@@ -1,9 +1,11 @@
 {{ define "main" }}
+<div class="container">	
 	<div class="pages">
-		<a href="/website/abt"><img src="abt.jpeg"><h2>about</h2></a>
-		<a href="/website/mas"><img src="mas.jpeg"><h2>masarat</h2></a>
-		<a href="/website/ant"><img src="ant.jpeg"><h2>antique tour</h2></a>
-		<a href="/website/col"><img src="col.jpeg"><h2>collaborations</h2></a>
-		<a href="/website/act"><img src="act.jpeg"><h2>activities</h2></a>
+		<a href="{{ .RelPermalink }}abt"><img src="abt.jpeg"><h2>about jana</h2></a>
+		<a href="{{ .RelPermalink }}mas"><img src="mas.jpeg"><h2>masarat</h2></a>
+		<a href="{{ .RelPermalink }}ant"><img src="ant.jpeg"><h2>antiques tour</h2></a>
+		<a href="{{ .RelPermalink }}col"><img src="col.jpeg"><h2>collaborations</h2></a>
+		<a href="{{ .RelPermalink }}act"><img src="act.jpeg"><h2>activities</h2></a>
 	</div>
+</div>
 {{ end }}
