@@ -20,6 +20,8 @@ a
 body
 {
     background: #404050 ;
+    max-width: 100% ;
+    overflow-x: hidden ;
 }
 
 a
