@@ -1,6 +1,6 @@
-baseURL = 'https://masaratcitytours.github.io/website/'
+baseURL = 'https://masaratcitytours.github.io/website'
 languageCode = 'en-us'
 title = 'Masarat مسارات'
 
 theme = "jana"
-# theme = 'lightbi-hugo'
+summaryLength = "1"
