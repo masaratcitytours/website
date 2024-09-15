@@ -14,37 +14,74 @@
 html, body
 {
 	margin: auto ;
-	max-width: 100% ;
+	max-width: 96vw ;
+	margin-top: 0.5vh ;
 	overflow-x: hidden ;
-	/* background: #E9D502 ; */
+}
+
+.pages
+{
+	height: 100vh ;
+	display: grid ;
+	grid-gap: 1vh ;
+	grid-template-rows: repeat(5, 19vh) ;
+	grid-template-columns: repeat(1, 1fr) ;
 }
 
 a
 {
-	text-decoration: none ;
-	position: relative ;
-	/* color: #333333 ; */
 	color: white ;
+	position: relative ;
+	border-radius: 3px ;
+	text-decoration: none ;
+	background-image: linear-gradient(to bottom left, white, black, black );
 }
 
 img
 {
-	display: block ;
-	width: 96% ;
-	/* margin: 0.3em auto ; */
-	margin: 2% auto ;
+	width: 100vw ;
+	height: 100% ;
+	opacity: 0.7 ;
+	object-fit: cover ;
+	border-radius: 3px ;
 }
 
-/* The overlay effect - lays on top of the container and over the image */
-h2 
+h2
 {
+	top: 0 ;
 	position: absolute ;
-	bottom: 0 ;
-	font-size: 2vmax ;
-	padding: 0.2em ;
-	margin-left: 0.9em ;
-	/* background: #E9D502 ; */
-	background: black ;
+	font-size: 3.8vmax ;
+	padding: 0 0.5em ;
 	text-transform: uppercase ;
+	overflow-wrap: break-word ;
+}
+
+p
+{
+	bottom: 0 ;
+	position: absolute ;
+	font-size: 1.8vmax ;
+	padding: 0.5em ;
+	margin: 0;
+}
+
+@media only screen and (min-width: 800px)
+{
+
+	html, body
+	{
+		max-width: 99vw ;
+	}
+
+	.pages
+	{
+		grid-template-rows: repeat(5, 98vh) ;
+		grid-template-columns: repeat(5, 1fr) ;
+	}
+
+	a,img
+	{
+		width: 19vw ;
+	}
 }
 
