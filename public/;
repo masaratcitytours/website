@@ -1,0 +1,56 @@
+@font-face { font-family: "tajwal" ; src: url('/fonts/tajwal-regular.ttf') }
+
+*
+{
+    font-family: tajwal ;
+    -ms-user-select: none ;
+    -moz-user-select: none ;
+    -webkit-user-select: none ;
+    -ms-tap-highlight-color: transparent ;
+    -moz-tap-highlight-color: transparent ;
+    -webkit-tap-highlight-color: transparent ;
+}
+
+a
+{
+	text-decoration: none ;
+	position: relative ;
+	color: #333333 ;
+}
+
+html, body
+{
+	/* margin: auto ; */
+    max-width: 100% ;
+    overflow-x: hidden ;
+	border-width: 5% ;
+	box-sizing: border-box ;
+	border: 5% solid #E9D502 ;
+}
+
+img
+{
+	display: block ;
+	width: 100% ;
+	height: auto ;
+}
+
+/* The overlay effect - lays on top of the container and over the image */
+h2 
+{
+	position: absolute ;
+	bottom: 0 ;
+	/* width: 100% ; */
+	font-size: 1em ;
+	padding: 0.2em ;
+	background: #E9D502 ;
+	text-transform: uppercase ;
+	/* text-align: center ; */
+	/* transition: .5s ease ; */
+}
+
+/* When you mouse over the container, fade in the overlay title */
+a:hover h2 
+{
+	background: rgba(0, 0, 0, 0.5) ; /* Black see-through */
+}
