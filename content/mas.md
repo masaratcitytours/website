@@ -2,6 +2,8 @@
 title = "Masarat"
 date = 2024-08-24T21:15:41+03:00
 url = "/mas"
+images = ["mas.jpeg"]
+weight = 2
 +++
 
 *“Space is not a scientific object removed from ideology or politics. It has always been political and strategic. There is an ideology of space. Because space, which seems homogeneous, which appears as a whole in its objectivity…, is a social product.”* -- Henri Lefebvre, The Survival of Capitalism

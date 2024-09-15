@@ -1,7 +1,9 @@
 +++
-title = "Collaborations"
+title = "Collab"
 date = 2024-08-24T21:16:01+03:00
 url = "/col"
+images = ["col.jpeg"]
+weight = 4
 +++
 
 **A Tool for Research: The Potential of Walking Tours with Molly T. Oringer**

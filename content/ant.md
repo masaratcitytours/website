@@ -2,6 +2,8 @@
 title = "Antiques Tour"
 date = 2024-08-24T21:15:49+03:00
 url = "/ant"
+images = ["ant.jpeg"]
+weight = 3
 +++
 
 **A tour of Bachoura and Basta’s Antique Market**

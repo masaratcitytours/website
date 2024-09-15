@@ -2,6 +2,8 @@
 title = "Activities"
 date = 2024-08-24T21:15:59+03:00
 url = "/act"
+images = ["act.jpeg"]
+weight = 5
 +++
 
 **Touring Downtown Beirut with the visiting student from MAS Urban Design program at ETH Zurich.**
